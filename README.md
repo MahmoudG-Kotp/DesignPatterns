@@ -10,12 +10,16 @@ Implementation of most important Design patterns by Java Programming Language
    1.3. Template
 
    1.4. State
+
+
    
 3. Creational
 
    2.1. Singleton
 
    2.2. Factory
+
+
    
 5. Structural
 
